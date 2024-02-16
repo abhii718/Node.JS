@@ -1,2 +1,0 @@
-lesecond.mjs";
-// simple();
